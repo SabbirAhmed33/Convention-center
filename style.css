@@ -10,12 +10,50 @@ body{
 .btn-text{
     color: #3F87F5;
 }
-/* @media only screen and (max-width: 992px) {
+.card-p-style{
+    color: #231D4F;
+    font-size: 36px;
+}
+.card-t-style{
+    color: #231D4F;
+    font-size: 28px;
+}
+.card-dis{
+    color: #848199;
+    font-weight: 400;
+}
+.card-dis i.far{
+    color: #5243C2;
+    background: rgba(82, 67, 194, 0.021);;
+    border-color: rgba(82, 67, 194, 0.103693);
+}
+.btn-custom{
+    background: #f496d22a;
+    padding: 13px 62px 13px 62px;
+    font-weight: 700;
+}
+.margin-top{
+    margin: 100px auto auto auto;
+}
+.custom-column{
+    background-color: #3F87F5;
+}
+.custom-column i.fas{
+    color: #5293F6;
+    background: #ffff;
+    border-radius: 50%;
+}
+.custom-hot{
+    margin-left: 155px;
+    transform: translate(100%,-90%);
+    background: #FF4E4E;
+    font-weight: 900;
+}
+
+@media only screen and (max-width: 992px) {
     .carousel-item img{
         width: 360px;
         height: 586px;        
     }
-    .carousel-caption{
-        display: block;
-    }
-} */
+    
+}
