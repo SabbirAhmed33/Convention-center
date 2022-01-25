@@ -1,0 +1,21 @@
+/* Google Fonts link */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+/* Google Fonts link */
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.nav-gap{
+    margin-right: 385px;
+}
+.btn-text{
+    color: #3F87F5;
+}
+/* @media only screen and (max-width: 992px) {
+    .carousel-item img{
+        width: 360px;
+        height: 586px;        
+    }
+    .carousel-caption{
+        display: block;
+    }
+} */
