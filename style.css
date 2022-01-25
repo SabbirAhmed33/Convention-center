@@ -49,7 +49,18 @@ body{
     background: #FF4E4E;
     font-weight: 900;
 }
-
+footer{
+    background-color: #0B0D17;
+    height: 280px;
+    display: flex;
+    align-items: center;
+}
+.app-link{
+    padding: 16px auto;
+}
+.app-link a img{
+    width: 135px;
+}
 @media only screen and (max-width: 992px) {
     .carousel-item img{
         width: 360px;
